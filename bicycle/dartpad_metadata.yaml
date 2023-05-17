@@ -1,0 +1,4 @@
+name: Bicycle example
+mode: dart
+files:
+  - name: main.dart
